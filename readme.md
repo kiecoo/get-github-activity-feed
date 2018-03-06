@@ -18,7 +18,7 @@ var el = getGithubActivity()
 document.body.appendChild(el)
 ```
 -----
-No.12【done_GNC】success
+No.12【done_LGNC】success
 
 (Github.Npm.Codepen:the same version as Github)
 
@@ -28,5 +28,5 @@ No.12【done_GNC】success
 
 (3) output(photo of Github io) : https://goo.gl/irQLSH
 
-----
+
 

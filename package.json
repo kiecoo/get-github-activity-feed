@@ -1,0 +1,19 @@
+{
+  "name": "get-github-activity-feed",
+  "version": "1.0.1",
+  "description": "get github activity-feed of users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiecoo/get-github-activity-feed.git"
+  },
+  "author": "kiecoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiecoo/get-github-activity-feed/issues"
+  },
+  "homepage": "https://github.com/kiecoo/get-github-activity-feed#readme"
+}
