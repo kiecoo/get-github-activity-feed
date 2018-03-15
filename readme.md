@@ -34,7 +34,7 @@ No.12【done_LGNC】success
    memo
    (i)  var gitterChat = module.exports     module.exports = gitterChat  放入皆可successCodepen 
    (ii)  js 內文可隨意切割  in html & js 
-   【doing】 :用 [repo](https://github.com/kiecoo/de-NewTry-NoNeedSave)  test
+   【doing】 :用 repo測試:  https://github.com/kiecoo/de-NewTry-NoNeedSave  test
     ```
 
 
