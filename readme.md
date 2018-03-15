@@ -29,10 +29,14 @@ No.12【done_LGNC】success
    (a) all in js (success Codepen) https://codepen.io/kiecoo/pen/Zrdxej
    
    (b) separate in html & js (successCodepen   FailGithub):  https://codepen.io/kiecoo/pen/MVyLGE
+   
    ```
-   var gitterChat = module.exports     module.exports = gitterChat  放入皆可successCodepen 
-   js 內文可隨意切割  in html & js 
-   ```
+   memo
+   (i)  var gitterChat = module.exports     module.exports = gitterChat  放入皆可successCodepen 
+   (ii)  js 內文可隨意切割  in html & js 
+   【doing】 :用 [repo](https://github.com/kiecoo/de-NewTry-NoNeedSave)  test
+    ```
+
 
 (3) output(photo of Github io) : https://goo.gl/irQLSH
 
