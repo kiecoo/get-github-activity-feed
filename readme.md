@@ -24,7 +24,11 @@ No.12【done_LGNC】success
 
 (1) Npm : https://www.npmjs.com/package/get-github-activity-feed
 
-(2) Codepen : https://codepen.io/kiecoo/pen/Zrdxej
+(2) Codepen : 
+
+   (a) all in js (success Codepen) https://codepen.io/kiecoo/pen/Zrdxej
+   
+   (b) separate in html & js (successCodepen   FailGithub):  https://codepen.io/kiecoo/pen/MVyLGE
 
 (3) output(photo of Github io) : https://goo.gl/irQLSH
 
