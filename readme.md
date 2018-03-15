@@ -29,6 +29,8 @@ No.12【done_LGNC】success
    (a) all in js (success Codepen) https://codepen.io/kiecoo/pen/Zrdxej
    
    (b) separate in html & js (successCodepen   FailGithub):  https://codepen.io/kiecoo/pen/MVyLGE
+   >var gitterChat = module.exports     module.exports = gitterChat  放入皆可successCodepen 
+   > js 內文可隨意切割  in html & js 
 
 (3) output(photo of Github io) : https://goo.gl/irQLSH
 
